@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pexfo.github.io/sitemap.xml
